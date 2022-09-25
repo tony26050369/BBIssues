@@ -1,0 +1,37 @@
+﻿@page "/ValidateAndPopconfirm"
+<h3>ValidateAndPopconfirm</h3>
+<Alert>问题：在PopConfirmButton上面设置了IsAsync="true"，但是没有显示等待的样式。使用IsAsync的目的是为了防止用户重复点击，造在重复提交</Alert>
+<ValidateForm Model="Req" OnValidSubmit="SubmitOnClick">
+    <p>
+        <BootstrapInput @bind-Value="Req.Name"></BootstrapInput>
+    </p>
+    <p>
+        <PopConfirmButton Color="Color.Primary" Text="保存" ButtonType="ButtonType.Submit" IsAsync="true"></PopConfirmButton>
+    </p>
+</ValidateForm>
+
+@code {
+    [Inject]
+    private SwalService? ss { get; set; }
+    private StruReq Req { get; set; } = new();
+    private class StruReq
+    {
+        [Required, Display(Name = "姓名")]
+        public string Name { get; set; } = string.Empty;
+    }
+    private async Task SubmitOnClick(EditContext context)
+    {
+
+        await Task.Delay(2000);
+
+        if (ss is not null)
+        {
+            await ss.Show(new SwalOption()
+                {
+                    Content = "完成"
+                });
+        }
+
+
+    }
+}
