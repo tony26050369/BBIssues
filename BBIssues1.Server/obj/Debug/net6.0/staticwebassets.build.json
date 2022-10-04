@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "t/vOtH553H+r5MwIoA+bgCd7RKQNwQ6mTUbJfB5DlZE=",
+  "Hash": "apXii6zn/QmsLloXLEQtGelmh6PCNX0YPsPsGV8+38k=",
   "Source": "BBIssues1.Server",
   "BasePath": "_content/BBIssues1.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
       "Version": 2,
       "Source": "BBIssues1.Shared",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,24 +22,24 @@
     {
       "Name": "BBIssues1.Server\\wwwroot",
       "Source": "BBIssues1.Server",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "Pattern": "**"
     },
     {
       "Name": "BBIssues1.Shared\\wwwroot",
       "Source": "BBIssues1.Shared",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\css\\bootstrap.blazor.bundle.min.css",
+      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\css\\bootstrap.blazor.bundle.min.css",
       "SourceId": "BootstrapBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\",
       "BasePath": "_content/BootstrapBlazor",
       "RelativePath": "css/bootstrap.blazor.bundle.min.css",
       "AssetKind": "All",
@@ -50,13 +50,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\css\\bootstrap.blazor.bundle.min.css"
+      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\css\\bootstrap.blazor.bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\css\\motronic.min.css",
+      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\css\\motronic.min.css",
       "SourceId": "BootstrapBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\",
       "BasePath": "_content/BootstrapBlazor",
       "RelativePath": "css/motronic.min.css",
       "AssetKind": "All",
@@ -67,13 +67,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\css\\motronic.min.css"
+      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\css\\motronic.min.css"
     },
     {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\js\\bootstrap.blazor.bundle.min.js",
+      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\js\\bootstrap.blazor.bundle.min.js",
       "SourceId": "BootstrapBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\",
       "BasePath": "_content/BootstrapBlazor",
       "RelativePath": "js/bootstrap.blazor.bundle.min.js",
       "AssetKind": "All",
@@ -84,64 +84,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\js\\bootstrap.blazor.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\js\\bootstrap.blazor.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\barcodereader.bundle.js",
+      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\modules\\upload.js",
       "SourceId": "BootstrapBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
-      "BasePath": "_content/BootstrapBlazor",
-      "RelativePath": "modules/barcodereader.bundle.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\barcodereader.bundle.js"
-    },
-    {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\qrcode.esm.min.js",
-      "SourceId": "BootstrapBlazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
-      "BasePath": "_content/BootstrapBlazor",
-      "RelativePath": "modules/qrcode.esm.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\qrcode.esm.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\qrcode.min.js",
-      "SourceId": "BootstrapBlazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
-      "BasePath": "_content/BootstrapBlazor",
-      "RelativePath": "modules/qrcode.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\qrcode.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\upload.js",
-      "SourceId": "BootstrapBlazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\",
       "BasePath": "_content/BootstrapBlazor",
       "RelativePath": "modules/upload.js",
       "AssetKind": "All",
@@ -152,13 +101,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\staticwebassets\\modules\\upload.js"
+      "OriginalItemSpec": "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\staticwebassets\\modules\\upload.js"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\favicon.ico",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -172,10 +121,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\favicon.png",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -189,10 +138,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -206,10 +155,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -223,10 +172,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -240,10 +189,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -257,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -274,10 +223,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -291,10 +240,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -308,10 +257,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -325,10 +274,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "BBIssues1.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Server",
       "RelativePath": "libs/font-awesome/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -342,10 +291,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\css\\motronic.css",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\css\\motronic.css",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "css/motronic.css",
       "AssetKind": "All",
@@ -359,10 +308,10 @@
       "OriginalItemSpec": "wwwroot\\css\\motronic.css"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\css\\site.css",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -376,10 +325,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\Argo.png",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\Argo.png",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/Argo.png",
       "AssetKind": "All",
@@ -393,10 +342,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Argo.png"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\Argo-C.png",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\Argo-C.png",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/Argo-C.png",
       "AssetKind": "All",
@@ -410,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Argo-C.png"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-1.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-1.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-1.jpg",
       "AssetKind": "All",
@@ -427,10 +376,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-10.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-10.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-10.jpg",
       "AssetKind": "All",
@@ -444,10 +393,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-11.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-11.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-11.jpg",
       "AssetKind": "All",
@@ -461,10 +410,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-12.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-12.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-12.jpg",
       "AssetKind": "All",
@@ -478,10 +427,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-13.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-13.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-13.jpg",
       "AssetKind": "All",
@@ -495,10 +444,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-14.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-14.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-14.jpg",
       "AssetKind": "All",
@@ -512,10 +461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-14.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-15.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-15.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-15.jpg",
       "AssetKind": "All",
@@ -529,10 +478,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-15.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-16.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-16.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-16.jpg",
       "AssetKind": "All",
@@ -546,10 +495,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-16.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-17.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-17.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-17.jpg",
       "AssetKind": "All",
@@ -563,10 +512,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-17.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-18.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-18.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-18.jpg",
       "AssetKind": "All",
@@ -580,10 +529,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-18.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-19.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-19.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-19.jpg",
       "AssetKind": "All",
@@ -597,10 +546,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-19.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-2.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-2.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-2.jpg",
       "AssetKind": "All",
@@ -614,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-20.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-20.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-20.jpg",
       "AssetKind": "All",
@@ -631,10 +580,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-20.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-21.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-21.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-21.jpg",
       "AssetKind": "All",
@@ -648,10 +597,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-21.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-22.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-22.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-22.jpg",
       "AssetKind": "All",
@@ -665,10 +614,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-22.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-23.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-23.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-23.jpg",
       "AssetKind": "All",
@@ -682,10 +631,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-23.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-24.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-24.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-24.jpg",
       "AssetKind": "All",
@@ -699,10 +648,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-24.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-3.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-3.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-3.jpg",
       "AssetKind": "All",
@@ -716,10 +665,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-4.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-4.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-4.jpg",
       "AssetKind": "All",
@@ -733,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-5.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-5.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-5.jpg",
       "AssetKind": "All",
@@ -750,10 +699,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-6.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-6.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-6.jpg",
       "AssetKind": "All",
@@ -767,10 +716,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-7.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-7.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-7.jpg",
       "AssetKind": "All",
@@ -784,10 +733,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-8.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-8.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-8.jpg",
       "AssetKind": "All",
@@ -801,10 +750,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-9.jpg",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\avatars\\150-9.jpg",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/avatars/150-9.jpg",
       "AssetKind": "All",
@@ -818,10 +767,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\images\\brand.png",
+      "Identity": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\images\\brand.png",
       "SourceId": "BBIssues1.Shared",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\wwwroot\\",
       "BasePath": "_content/BBIssues1.Shared",
       "RelativePath": "images/brand.png",
       "AssetKind": "All",

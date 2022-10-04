@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "BootstrapBlazor/6.10.5": {
+      "BootstrapBlazor/6.10.10": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Authorization": "6.0.0",
@@ -2171,14 +2171,14 @@
     }
   },
   "libraries": {
-    "BootstrapBlazor/6.10.5": {
-      "sha512": "FY+I2sD+J2KzP2vOZZeyeKtLE9J6L2biHcHh8PTAWw5W4WOt92QNe+mJHs+eOxyga4qbTOqAY2EIrj8NFfxL+Q==",
+    "BootstrapBlazor/6.10.10": {
+      "sha512": "9RJera5q7sqoYjbtjwkHtZC5gKPJ7v+8KNX4R8gj+sumcZHlzrLcwaVJw4/fr1WRVZPK3lwRLgXxSDh8hjr9tw==",
       "type": "package",
-      "path": "bootstrapblazor/6.10.5",
+      "path": "bootstrapblazor/6.10.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "bootstrapblazor.6.10.5.nupkg.sha512",
+        "bootstrapblazor.6.10.10.nupkg.sha512",
         "bootstrapblazor.nuspec",
         "build/BootstrapBlazor.props",
         "build/Microsoft.AspNetCore.StaticWebAssets.props",
@@ -2193,9 +2193,6 @@
         "staticwebassets/css/bootstrap.blazor.bundle.min.css",
         "staticwebassets/css/motronic.min.css",
         "staticwebassets/js/bootstrap.blazor.bundle.min.js",
-        "staticwebassets/modules/barcodereader.bundle.js",
-        "staticwebassets/modules/qrcode.esm.min.js",
-        "staticwebassets/modules/qrcode.min.js",
         "staticwebassets/modules/upload.js"
       ]
     },
@@ -6695,11 +6692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
       "projectName": "BBIssues1.Shared",
-      "projectPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
+      "projectPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
       "packagesPath": "C:\\Users\\xueto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\obj\\",
+      "outputPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"

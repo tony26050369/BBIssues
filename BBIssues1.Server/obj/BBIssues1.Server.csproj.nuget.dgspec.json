@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\BBIssues1.Server.csproj": {}
+    "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\BBIssues1.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\BBIssues1.Server.csproj": {
+    "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\BBIssues1.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\BBIssues1.Server.csproj",
+        "projectUniqueName": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\BBIssues1.Server.csproj",
         "projectName": "BBIssues1.Server",
-        "projectPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\BBIssues1.Server.csproj",
+        "projectPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\BBIssues1.Server.csproj",
         "packagesPath": "C:\\Users\\xueto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Server\\obj\\",
+        "outputPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj": {
-                "projectPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj"
+              "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj": {
+                "projectPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj": {
+    "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
         "projectName": "BBIssues1.Shared",
-        "projectPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
+        "projectPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
         "packagesPath": "C:\\Users\\xueto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\obj\\",
+        "outputPath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"

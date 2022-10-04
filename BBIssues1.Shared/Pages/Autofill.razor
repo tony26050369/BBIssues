@@ -1,0 +1,25 @@
+﻿@page "/Autofill"
+<h3>Autofill</h3>
+
+<AutoFill PlaceHolder="@PH" TValue="string" OnCustomFilter="OnCustomFilter"></AutoFill>
+
+@code {
+    private string? PH { get; set; }
+    private Task<IEnumerable<string>> OnCustomFilter(string input)
+    {
+        var ret = new List<string>();
+        if (string.IsNullOrEmpty(input))
+        {
+            return Task.FromResult(ret.AsEnumerable());
+        }
+        else
+        {
+            ret.Add($"{input}1");
+            ret.Add($"{input}2");
+            ret.Add($"{input}3");
+
+            return Task.FromResult(ret.AsEnumerable());
+        }
+
+    }
+}

@@ -14,7 +14,7 @@
           "BBIssues1.Server.dll": {}
         }
       },
-      "BootstrapBlazor/6.10.5": {
+      "BootstrapBlazor/6.10.10": {
         "dependencies": {
           "Microsoft.AspNetCore.Components.Authorization": "6.0.0",
           "Microsoft.AspNetCore.Components.Web": "6.0.0",
@@ -26,8 +26,8 @@
         },
         "runtime": {
           "lib/net6.0/BootstrapBlazor.dll": {
-            "assemblyVersion": "6.10.5.0",
-            "fileVersion": "6.10.5.0"
+            "assemblyVersion": "6.10.10.0",
+            "fileVersion": "6.10.10.0"
           }
         }
       },
@@ -1036,7 +1036,7 @@
       },
       "BBIssues1.Shared/1.0.0": {
         "dependencies": {
-          "BootstrapBlazor": "6.10.5",
+          "BootstrapBlazor": "6.10.10",
           "Microsoft.EntityFrameworkCore.InMemory": "6.0.9",
           "Microsoft.EntityFrameworkCore.Proxies": "6.0.9"
         },
@@ -1052,12 +1052,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BootstrapBlazor/6.10.5": {
+    "BootstrapBlazor/6.10.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-FY+I2sD+J2KzP2vOZZeyeKtLE9J6L2biHcHh8PTAWw5W4WOt92QNe+mJHs+eOxyga4qbTOqAY2EIrj8NFfxL+Q==",
-      "path": "bootstrapblazor/6.10.5",
-      "hashPath": "bootstrapblazor.6.10.5.nupkg.sha512"
+      "sha512": "sha512-9RJera5q7sqoYjbtjwkHtZC5gKPJ7v+8KNX4R8gj+sumcZHlzrLcwaVJw4/fr1WRVZPK3lwRLgXxSDh8hjr9tw==",
+      "path": "bootstrapblazor/6.10.10",
+      "hashPath": "bootstrapblazor.6.10.10.nupkg.sha512"
     },
     "Castle.Core/4.4.1": {
       "type": "package",

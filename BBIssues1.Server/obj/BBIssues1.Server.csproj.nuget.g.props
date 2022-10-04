@@ -15,6 +15,6 @@
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.9\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.9\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
-    <Import Project="$(NuGetPackageRoot)bootstrapblazor\6.10.5\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\6.10.5\buildTransitive\BootstrapBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)bootstrapblazor\6.10.10\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\6.10.10\buildTransitive\BootstrapBlazor.props')" />
   </ImportGroup>
 </Project>

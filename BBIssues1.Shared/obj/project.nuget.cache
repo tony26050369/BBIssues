@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B8LUWjUjpwzzFGKcBqy2qWNnqAlLWjxdavnthRq31cbGPF8TzGXp2utmgjh+MNExEmaiTpi1Ri+2d/WHgNuAsA==",
+  "dgSpecHash": "Z8S/bzJ7tDOiQqkUj1rSzZsaTl96pzrOzgHtj4cTjsPXbb5O+otaI0eDwxqNtqojEj8bG/vcTeTSpVqxwR/4CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xueto\\OneDrive\\桌面\\BBIssues1\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
+  "projectFilePath": "C:\\Users\\xueto\\Documents\\GitHub\\BBIssues\\BBIssues1.Shared\\BBIssues1.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.5\\bootstrapblazor.6.10.5.nupkg.sha512",
+    "C:\\Users\\xueto\\.nuget\\packages\\bootstrapblazor\\6.10.10\\bootstrapblazor.6.10.10.nupkg.sha512",
     "C:\\Users\\xueto\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\xueto\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
     "C:\\Users\\xueto\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0\\microsoft.aspnetcore.components.6.0.0.nupkg.sha512",

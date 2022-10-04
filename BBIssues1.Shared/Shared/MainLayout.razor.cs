@@ -45,7 +45,8 @@ namespace BBIssues1.Shared.Shared
             new MenuItem() { Text = "Table", Icon = "fa-solid fa-fw fa-table", Url = "table" },
             new MenuItem() { Text = "花名册", Icon = "fa-solid fa-fw fa-users", Url = "users" },
             new MenuItem(){Text="Table Edit",Url="/TableEdit"},
-            new MenuItem(){Text="ValidateForm",Url="/ValidateAndPopconfirm"}
+            new MenuItem(){Text="ValidateForm",Url="/ValidateAndPopconfirm"},
+            new MenuItem(){Text="Autofill",Url="/Autofill"}
         };
 
             return menus;
