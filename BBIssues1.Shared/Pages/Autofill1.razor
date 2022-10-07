@@ -1,0 +1,22 @@
+﻿<AutoFill PlaceHolder="@PH" TValue="string" OnCustomFilter="OnCustomFilter"></AutoFill>
+
+@code {
+    private string PH { get; set; } = "请输入至少两个字符查询";
+    private Task<IEnumerable<string>> OnCustomFilter(string input)
+    {
+        var ret = new List<string>();
+        if (string.IsNullOrEmpty(input))
+        {
+            return Task.FromResult(ret.AsEnumerable());
+        }
+        else
+        {
+            ret.Add($"{input}1");
+            ret.Add($"{input}2");
+            ret.Add($"{input}3");
+
+            return Task.FromResult(ret.AsEnumerable());
+        }
+
+    }
+}
