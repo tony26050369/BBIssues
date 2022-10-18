@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "BootstrapBlazor/6.10.10": {
+      "BootstrapBlazor/6.11.17": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Authorization": "6.0.0",
@@ -2186,14 +2186,14 @@
     }
   },
   "libraries": {
-    "BootstrapBlazor/6.10.10": {
-      "sha512": "9RJera5q7sqoYjbtjwkHtZC5gKPJ7v+8KNX4R8gj+sumcZHlzrLcwaVJw4/fr1WRVZPK3lwRLgXxSDh8hjr9tw==",
+    "BootstrapBlazor/6.11.17": {
+      "sha512": "e4AvpMPFfc4veJn7+/rPFt6lCFN7NiZAGqMsDGWYGsSb2KtgIQTfRZLPimbQubcXLZNV+ed5CzxSvfj6isF8Cw==",
       "type": "package",
-      "path": "bootstrapblazor/6.10.10",
+      "path": "bootstrapblazor/6.11.17",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "bootstrapblazor.6.10.10.nupkg.sha512",
+        "bootstrapblazor.6.11.17.nupkg.sha512",
         "bootstrapblazor.nuspec",
         "build/BootstrapBlazor.props",
         "build/Microsoft.AspNetCore.StaticWebAssets.props",
@@ -2208,7 +2208,32 @@
         "staticwebassets/css/bootstrap.blazor.bundle.min.css",
         "staticwebassets/css/motronic.min.css",
         "staticwebassets/js/bootstrap.blazor.bundle.min.js",
-        "staticwebassets/modules/upload.js"
+        "staticwebassets/modules/anchor.js",
+        "staticwebassets/modules/anchorlink.js",
+        "staticwebassets/modules/autoredirect.js",
+        "staticwebassets/modules/base/base-component.js",
+        "staticwebassets/modules/base/base-dropdown.js",
+        "staticwebassets/modules/base/blazor-component.js",
+        "staticwebassets/modules/base/config.js",
+        "staticwebassets/modules/base/data.js",
+        "staticwebassets/modules/base/event-handler.js",
+        "staticwebassets/modules/base/index.js",
+        "staticwebassets/modules/base/manipulator.js",
+        "staticwebassets/modules/base/simple-component.js",
+        "staticwebassets/modules/base/utility.js",
+        "staticwebassets/modules/button.js",
+        "staticwebassets/modules/carousel.js",
+        "staticwebassets/modules/confirm.js",
+        "staticwebassets/modules/dropdown.js",
+        "staticwebassets/modules/icon-dialog.js",
+        "staticwebassets/modules/menu.js",
+        "staticwebassets/modules/multi-select.js",
+        "staticwebassets/modules/popover.js",
+        "staticwebassets/modules/select-tree.js",
+        "staticwebassets/modules/select.js",
+        "staticwebassets/modules/tooltip.js",
+        "staticwebassets/modules/upload.js",
+        "staticwebassets/modules/validate.js"
       ]
     },
     "Castle.Core/4.4.1": {
@@ -6771,7 +6796,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
