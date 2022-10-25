@@ -1,6 +1,11 @@
 ﻿@page "/ValidateAndPopconfirm"
 <h3>ValidateAndPopconfirm</h3>
-<Alert>问题：在PopConfirmButton上面设置了IsAsync="true"，但是没有显示等待的样式。使用IsAsync的目的是为了防止用户重复点击，造在重复提交</Alert>
+<Alert>
+    <ul>
+        <li>在姓名中输入一个超过10个字符的值</li>
+        <li>点击"保存"按钮，并确定后。这个保存按钮将一直保持在Disable状态，无法再使用。即使修正在姓名的字符长度，也无法再使用保存按钮。</li>
+    </ul>
+</Alert>
 <ValidateForm Model="Req" OnValidSubmit="SubmitOnClick">
     <p>
         <BootstrapInput @bind-Value="Req.Name"></BootstrapInput>
@@ -16,7 +21,7 @@
     private StruReq Req { get; set; } = new();
     private class StruReq
     {
-        [Required, Display(Name = "姓名")]
+        [Required, MaxLength(10),Display(Name = "姓名")]
         public string Name { get; set; } = string.Empty;
     }
     private async Task SubmitOnClick(EditContext context)
