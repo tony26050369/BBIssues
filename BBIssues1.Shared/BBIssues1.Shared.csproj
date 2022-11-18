@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
@@ -24,8 +24,8 @@
 
   <ItemGroup>
     <PackageReference Include="BootstrapBlazor" Version="6.11.27" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.10" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.0" />
   </ItemGroup>
 
 </Project>
