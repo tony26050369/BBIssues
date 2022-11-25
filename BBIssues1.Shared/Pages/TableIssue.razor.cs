@@ -19,7 +19,7 @@ using System.Globalization;
 
 namespace BBIssues1.Shared.Pages
 {
-    public partial class TableIssues
+    public partial class TableIssue
     {
         private List<StruTest> TestList { get; set; } = new()
         {new StruTest{Value1 = 10}, new StruTest{Value1 = 20}};
