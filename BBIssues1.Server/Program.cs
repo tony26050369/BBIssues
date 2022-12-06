@@ -10,6 +10,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 
 builder.Services.AddBootstrapBlazor();
+builder.Services.AddBootstrapBlazorTableExcelExport();
 
 builder.Services.AddSingleton<WeatherForecastService>();
 

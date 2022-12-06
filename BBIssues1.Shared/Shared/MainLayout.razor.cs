@@ -43,10 +43,7 @@ namespace BBIssues1.Shared.Shared
             new MenuItem() { Text = "Counter", Icon = "fa-solid fa-fw fa-check-square", Url = "/counter" },
             new MenuItem() { Text = "FetchData", Icon = "fa-solid fa-fw fa-database", Url = "fetchdata" },
             new MenuItem() { Text = "Table", Icon = "fa-solid fa-fw fa-table", Url = "table" },
-            new MenuItem() { Text = "花名册", Icon = "fa-solid fa-fw fa-users", Url = "users" },
-            new MenuItem(){Text="Table Edit",Url="/TableEdit"},
-            new MenuItem(){Text="ValidateForm",Url="/ValidateAndPopconfirm"},
-            new MenuItem(){Text="Autofill",Url="/Autofill"}
+            new MenuItem(){Text="Table组件问题",Url="/TableIssues"}
         };
 
             return menus;

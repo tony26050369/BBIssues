@@ -1,11 +1,11 @@
 ﻿@page "/TableIssues"
 
 <div class="alert alert-info">
-    如果数据结构中有只读属性，比如下面StruTest中的AutoValue属性，如何绑定到Table的Column中？
+   导出Excel时出错。重现方法：点击导出按钮，就会提示错误
 </div>
-<Table TItem="StruTest" Items="TestList">
+<Table TItem="StruTest" Items="TestList" ShowToolbar="true" ShowExportButton="true">
     <TableColumns>
         <TableColumn @bind-Field="context.Value1"></TableColumn>
-        <TableColumn Field="context.AutoValue"></TableColumn>
+        <TableColumn @bind-Field="context.Value2"></TableColumn>
     </TableColumns>
 </Table>

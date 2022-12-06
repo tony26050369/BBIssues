@@ -26,13 +26,7 @@ namespace BBIssues1.Shared.Pages
         private class StruTest
         {
             public int Value1 { get; set; } = 10;
-            public int AutoValue
-            {
-                get
-                {
-                    return Value1 * 10;
-                }
-            }
+            public int Value2 { get; set; }
         }
     }
 }
