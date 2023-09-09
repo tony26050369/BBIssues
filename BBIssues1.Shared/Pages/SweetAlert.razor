@@ -1,0 +1,11 @@
+﻿@page "/sweetalertissues"
+<h3>SweetAlert</h3>
+<Button Text="显示Modal" OnClick="@(() => Modal1.Show())"></Button>
+<Button Text="显示SweetAlert" OnClick="ShowSS"></Button>
+<Modal @ref="Modal1">
+    <ModalDialog Title="测试">
+        <BodyTemplate>
+            <div>测试</div>
+        </BodyTemplate>
+    </ModalDialog>
+</Modal>
