@@ -27,5 +27,9 @@ namespace BBIssues1.Shared.Pages
             public decimal InputValue { get; set; }
         }
         
+        private Task OnClick()
+        {
+            return Task.CompletedTask;
+        }
     }
 }

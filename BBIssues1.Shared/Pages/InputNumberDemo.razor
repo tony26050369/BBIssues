@@ -1,7 +1,10 @@
 ﻿@page "/inputnumberdemo"
 <h3>InputNumberDemo</h3>
 <ValidateForm Model="Req">
-    <BootstrapInputNumber @bind-Value="Req.InputValue" DisplayText="请输入一个小数，然后点击保存" ShowLabel="true"></BootstrapInputNumber>
+    <BootstrapInputNumber @bind-Value="Req.InputValue" DisplayText="在ValidateForm中：请输入一个小数，然后点击保存" ShowLabel="true"></BootstrapInputNumber>
     <Button ButtonType="ButtonType.Submit" Text="保存"></Button>
 </ValidateForm>
+<hr />
+<BootstrapInputNumber @bind-Value="Req.InputValue" DisplayText="不在ValidateForm中：请输入一个小数，然后点击保存" ShowLabel="true"></BootstrapInputNumber>
+<Button OnClick="OnClick" Text="保存"></Button>
 
