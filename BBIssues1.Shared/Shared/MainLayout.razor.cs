@@ -44,7 +44,8 @@ namespace BBIssues1.Shared.Shared
             new MenuItem() { Text = "FetchData", Icon = "fa-solid fa-fw fa-database", Url = "fetchdata" },
             new MenuItem() { Text = "Table", Icon = "fa-solid fa-fw fa-table", Url = "table" },
             new MenuItem(){Text="Table组件问题",Url="/TableIssues"},
-            new MenuItem(){Text="Dialog组件问题",Url="/dsissue"}
+            new MenuItem(){Text="Dialog组件问题",Url="/dsissue"},
+            new MenuItem(){Text="InputNumber组件问题",Url="/inputnumberdemo"}
         };
 
             return menus;
