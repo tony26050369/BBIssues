@@ -25,7 +25,7 @@ namespace BBIssues1.Shared.Pages
         {new StruTest{Value1 = 10}, new StruTest{Value1 = 20}};
         private class StruTest
         {
-            public int Value1 { get; set; } = 10;
+            public required int Value1 { get; set; } = 10;
             public int Value2 { get; set; }
         }
     }
