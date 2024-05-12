@@ -1,6 +1,13 @@
 ﻿@page "/TableIssues"
 
-<Table TItem="StruTest" Items="TestList" ShowSearch="true" ShowToolbar="true">
+<Table TItem="StruTest" OnQueryAsync="OnQuery" ShowSearch="true" ShowToolbar="true" ShowSearchText="false" ShowSearchButton="false" ShowResetButton="false">
+    <SearchTemplate>
+        <div class="row">
+            <div class="col-4">
+                <BootstrapInput @bind-Value="Req.Id"></BootstrapInput>
+            </div>
+        </div>
+    </SearchTemplate>
     <TableColumns>
         <TableColumn @bind-Field="context.Value1"></TableColumn>
         <TableColumn @bind-Field="context.Value2"></TableColumn>

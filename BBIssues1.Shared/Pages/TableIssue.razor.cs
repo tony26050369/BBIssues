@@ -28,5 +28,19 @@ namespace BBIssues1.Shared.Pages
             public int Value1 { get; set; } = 10;
             public int Value2 { get; set; }
         }
+        private class StruSearchReq
+        {
+            public string Id { get; set; } = string.Empty;
+        }
+        private StruSearchReq Req { get; set; } = new();
+        private Task<QueryData<StruTest>> OnQuery(QueryPageOptions _)
+        {
+            return Task.FromResult(new QueryData<StruTest>()
+            {
+                Items = TestList,
+                TotalCount = TestList.Count
+            });
+
+        }
     }
 }
