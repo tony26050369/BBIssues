@@ -7,3 +7,30 @@
 Welcome to your new app.
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+<AutoFill TValue="StruTest" Debounce="1000" OnCustomFilter="OnFilter" OnGetDisplayText="OnGetDisplay"></AutoFill>
+
+@code {
+    private class StruTest
+    {
+        public string Name { get; set; } = string.Empty;
+        public string Id { get; set; } = string.Empty;
+    }
+    private Task<IEnumerable<StruTest>> OnFilter(string value)
+    {
+
+        var ret = new List<StruTest>
+        {
+            new(){ Id = "1", Name = "Name1" },
+            new(){ Id = "2", Name = "Name2" },
+            new(){ Id = "3", Name = "Name3" },
+        };
+        return Task.FromResult(ret.AsEnumerable());
+
+    }
+
+    private string OnGetDisplay(StruTest item)
+    {
+        return item.Name;
+    }
+}
