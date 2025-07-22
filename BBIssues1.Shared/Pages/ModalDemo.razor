@@ -1,0 +1,26 @@
+﻿@page "/modaldemo"
+@inject SwalService Ss
+<h3>ModalDemo</h3>
+<Button Text="显示" OnClick="ShowModalAsync"></Button>
+<Modal @ref="Modal1">
+    <ModalDialog Title="测试">
+        <BodyTemplate>
+            <Button Text="测试" OnClick="ShowAsync"></Button>
+        </BodyTemplate>
+    </ModalDialog>
+</Modal>
+
+@code {
+    private Modal? Modal1{ get; set; }
+    private async Task ShowAsync()
+    {
+        await Ss.ShowModal(new()
+            {
+                Content = "测试"
+            });
+    }
+    private async Task ShowModalAsync()
+    {
+        await Modal1.Show();
+    }
+}
